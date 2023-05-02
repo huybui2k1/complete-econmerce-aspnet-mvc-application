@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eticker", "Eticker\Eticker.csproj", "{BC963E55-1884-45B4-AE9E-1D9E953E4CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC963E55-1884-45B4-AE9E-1D9E953E4CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC963E55-1884-45B4-AE9E-1D9E953E4CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC963E55-1884-45B4-AE9E-1D9E953E4CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC963E55-1884-45B4-AE9E-1D9E953E4CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA8F31D8-D1CA-49BB-817A-3833BD00A4EC}
+	EndGlobalSection
+EndGlobal
